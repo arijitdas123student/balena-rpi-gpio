@@ -1,0 +1,12 @@
+{
+  "name": "balena-rpi-gpio",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "pi-pins": "~1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  }
+}
